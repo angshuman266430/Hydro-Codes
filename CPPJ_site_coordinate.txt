@@ -1,0 +1,32 @@
+Station_ID	X	Y
+Antoine Gully @ Swift Plant Road (12146)	2713647.751	632801.6841
+Antoine Pump Station (12129)	2711434.6	638370.5234
+Black Bayou @ E Lincoln Road (12102)	2702734.818	590403.1646
+Black Bayou @ Gulf Hwy (12101)	2686231.458	581220.7135
+Contraband Bayou @ 18th Street (12034)	2678339.663	625353.449
+Contraband Bayou @ Common Street (12035)	2686675.935	614830.0515
+CR-CB-L40012 @ University Drive (12147)	2683046.892	612091.8792
+English Bayou @ Pujol Road (12082)	2713709.351	640348.8275
+Harless Pump Station (12130)	2692076.035	643749.7415
+Henderson Bayou @ Devon Lane (12121)	2668762.809	615342.8768
+Henderson Bayou @ W Prien Lake Road (12123)	2667458.568	612299.0972
+Hippolyte Coulee @ W. Lincoln (12103)	2682241.167	590574.8005
+IC-BB-HC-L33018 @ Greenlawn Street (12152)	2695328.842	603922.797
+IC-BB-L32 @ Clearfield Retention Pond (12153)	2716730.235	608351.8949
+Kayouchee Coulee @ Broad Street (12069)	2699386.837	632894.4067
+Kayouchee Coulee @ East Prien Lake Road (12005)	2701632.213	622235.6972
+Kayouchee Coulee @ McNeese Street (12068)	2701020.615	614317.5448
+Kayouchee Coulee Pump Station (12037)	2700289.385	646055.4703
+L-1 @ Tank Farm Road (12063)	2687488.429	595749.7095
+L-2  @ McNeese Street (12036)	2679173.733	614606.8617
+L-3 @ Addison Loop (12066)	2702216.013	602378.281
+L-3 @ Tank Farm Road (12064)	2702389.973	595728.0922
+L-5 @ Common Street (12067)	2686494.784	608857.763
+L-5 @ Gauthier Road (12065)	2704562.393	601006.0769
+Pithon St Pump Station (12135)	2684602.514	631768.207
+Prien Lake @ Prien Lake Park (12141)	2668757.524	619506.5851
+W-14 @ Joe Spears Road (12012)	2716875.222	621876.0978
+W-4 @ Elliott Road (12027)	2669862.784	595725.3541
+W-4 @ Nelson Road (12026)	2675255.323	602673.2566
+W-5 @ Big Lake Road (12062)	2664587.526	599007.2088
+W-6 @ Ward Line Road (12028)	2713366.982	605325.081
